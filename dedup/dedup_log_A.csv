@@ -1,0 +1,267 @@
+rec_id,record_title,source,doi,year,match,order
+A0001,Mission planning of the aerial-sea cooperative search and clean for the surface pollutant,Scopus,10.1016/j.cja.2025.103997,2026,first occurrence,1
+A0001,Mission planning of the aerial-sea cooperative search and clean for the surface pollutant,WoS,10.1016/j.cja.2025.103997,2026,duplicate (same DOI),138
+A0001,Mission planning of the aerial-sea cooperative search and clean for the surface pollutant,OpenAlex,10.1016/j.cja.2025.103997,2025,duplicate (same DOI),176
+A0002,Current options and recommendations for the treatment of aortic arch diseases,Scopus,10.21037/acs-2026-0169-aar,2026,first occurrence,2
+A0002,Current options and recommendations for the treatment of aortic arch diseases,WoS,10.21037/acs-2026-0169-aar,2026,duplicate (same DOI),143
+A0003,Corridor-scale sea-ice navigability and its interannual volatility: a multi-model assessment of the Arctic Europe–Pacific route,Scopus,10.3389/fmars.2026.1855356,2026,first occurrence,3
+A0003,Corridor-scale sea-ice navigability and its interannual volatility: a multi-model assessment of the Arctic Europe–Pacific route,WoS,10.3389/fmars.2026.1855356,2026,duplicate (same DOI),141
+A0004,Dual-Population Cooperative Algorithm Integrating an LLM and an Evolutionary Algorithm for AUV Path Planning in 3-D Marine Environments,Scopus,10.1109/jiot.2026.3686625,2026,first occurrence,4
+A0004,Dual-Population Cooperative Algorithm Integrating an LLM and an Evolutionary Algorithm for AUV Path Planning in 3-D Marine Environments,WoS,10.1109/jiot.2026.3686625,2026,duplicate (same DOI),139
+A0004,Dual-Population Cooperative Algorithm Integrating an LLM and an Evolutionary Algorithm for AUV Path Planning in 3-D Marine Environments,IEEE,10.1109/jiot.2026.3686625,2026,duplicate (same DOI),236
+A0005,"Smooth, rigid, and dexterous robotic machining path planning based on on-site scanned point clouds",Scopus,10.1016/j.rcim.2025.103114,2026,first occurrence,5
+A0005,"Smooth, rigid, and dexterous robotic machining path planning based on on-site scanned point clouds",WoS,10.1016/j.rcim.2025.103114,2026,duplicate (same DOI),129
+A0006,A-NetShoot: Adaptive vessel guidance for purse seine net shooting,Scopus,10.1016/j.oceaneng.2025.124121,2026,first occurrence,6
+A0006,A-NetShoot: Adaptive vessel guidance for purse seine net shooting,WoS,10.1016/j.oceaneng.2025.124121,2026,duplicate (same DOI),134
+A0006,A-NetShoot: Adaptive vessel guidance for purse seine net shooting,OpenAlex,10.1016/j.oceaneng.2025.124121,2026,duplicate (same DOI),168
+A0007,Antagonizing IL-17A Reduces Vascular Inflammation and Attenuates Oxidative Stress Formation but Does Not Significantly Improve Vascular Dysfunction Induced by One Week of Angiotensin II Treatment,Scopus,10.3390/antiox15020229,2026,first occurrence,7
+A0007,Antagonizing IL-17A Reduces Vascular Inflammation and Attenuates Oxidative Stress Formation but Does Not Significantly Improve Vascular Dysfunction Induced by One Week of Angiotensin II Treatment,WoS,10.3390/antiox15020229,2026,duplicate (same DOI),135
+A0008,Trajectory planning and optimization method for spray robot spraying,Scopus,10.1177/09544054261465789,2026,first occurrence,8
+A0008,Trajectory planning and optimization method for spray robot spraying,WoS,10.1177/09544054261465789,2026,duplicate (same DOI),140
+A0008,Trajectory planning and optimization method for spray robot spraying,OpenAlex,10.1177/09544054261465789,2026,duplicate (same DOI),179
+A0009,A data-driven framework for attainable ship speed uncertainty under stochastic weather conditions,Scopus,10.21278/brod77108,2026,first occurrence,9
+A0009,A data-driven framework for attainable ship speed uncertainty under stochastic weather conditions,WoS,10.21278/brod77108,2026,duplicate (same DOI),136
+A0009,A data-driven framework for attainable ship speed uncertainty under stochastic weather conditions,OpenAlex,10.21278/brod77108,2025,duplicate (same DOI),165
+A0010,From the titanic era to the AI era: smart technology to drive green transformation in shipping,Scopus,10.1080/17445302.2025.2603414,2026,first occurrence,10
+A0010,From the titanic era to the AI era: smart technology to drive green transformation in shipping,WoS,10.1080/17445302.2025.2603414,2026,duplicate (same DOI),132
+A0010,From the titanic era to the AI era: smart technology to drive green transformation in shipping,OpenAlex,10.1080/17445302.2025.2603414,2025,duplicate (same DOI),175
+A0010,From the titanic era to the AI era: smart technology to drive green transformation in shipping,OpenAlex,10.15480/882.16369,2026,"duplicate (same title, year within 1)",190
+A0011,Optimization of Tanker Routes Using Hybrid GACM for Oil Terminals,Scopus,10.1007/978-3-032-13672-5_11,2026,first occurrence,11
+A0012,Load Prediction of Hydrogen Powered Ship: A Deep Prediction Framework Considering Operating Environment and Error Correction,Scopus,10.1109/tsg.2025.3615925,2026,first occurrence,12
+A0012,Load Prediction of Hydrogen Powered Ship: A Deep Prediction Framework Considering Operating Environment and Error Correction,WoS,10.1109/tsg.2025.3615925,2026,duplicate (same DOI),133
+A0012,Load Prediction of Hydrogen Powered Ship: A Deep Prediction Framework Considering Operating Environment and Error Correction,IEEE,10.1109/tsg.2025.3615925,2026,duplicate (same DOI),229
+A0013,Revolutionizing Retail Supply Chains with AI and Cloud Computing: A Big Data Approach to Demand Forecasting and Logistics Optimization,Scopus,10.1007/978-3-032-08243-5_25,2026,first occurrence,13
+A0014,Seamless Data Orchestration and Analytics Pipeline for E-commerce Using Azure,Scopus,10.1007/978-3-032-06700-5_50,2026,first occurrence,14
+A0015,Predicting the construction duration of an offshore wind farm in Taiwan based on available weather windows: a case study of the Formosa 2 offshore wind farm,Scopus,10.1080/02533839.2026.2659781,2026,first occurrence,15
+A0015,Predicting the construction duration of an offshore wind farm in Taiwan based on available weather windows: a case study of the Formosa 2 offshore wind farm,WoS,10.1080/02533839.2026.2659781,2026,duplicate (same DOI),137
+A0016,Research on Maritime Rescue Object Detection Algorithm Based on Improved YOLO11n,Scopus,10.1109/eicct69950.2026.11564642,2026,first occurrence,16
+A0017,Integrating graph neural networks and LSTM for path optimization in smart port multi-modal systems,Scopus,10.1371/journal.pone.0336629,2025,first occurrence,17
+A0018,Coverage Path Planning for Maritime Search and Rescue Using Maskable Proximal Policy Optimization,Scopus,10.7780/kjrs.2025.41.6.17,2025,first occurrence,18
+A0018,Coverage Path Planning for Maritime Search and Rescue Using Maskable Proximal Policy Optimization,OpenAlex,10.7780/kjrs.2025.41.6.17,2025,duplicate (same DOI),167
+A0019,Modeling temporal continuity of spatial interactions for vessel trajectories prediction in maritime transportation systems,Scopus,10.1016/j.engappai.2025.111378,2025,first occurrence,19
+A0020,Dijkstra and A* Algorithms for Algorithmic Optimization of Maritime Routes and Logistics of Offshore Wind Farms,Scopus,10.3390/jmse13101863,2025,first occurrence,20
+A0020,Dijkstra and A* Algorithms for Algorithmic Optimization of Maritime Routes and Logistics of Offshore Wind Farms,WoS,10.3390/jmse13101863,2025,duplicate (same DOI),131
+A0020,Dijkstra and A* Algorithms for Algorithmic Optimization of Maritime Routes and Logistics of Offshore Wind Farms,OpenAlex,10.3390/jmse13101863,2025,duplicate (same DOI),158
+A0021,Collaborative vessel–unmanned aerial vehicle routing for time-window-constrained offshore parcel delivery,Scopus,10.1016/j.trc.2025.105189,2025,first occurrence,21
+A0021,Collaborative vessel–unmanned aerial vehicle routing for time-window-constrained offshore parcel delivery,WoS,10.1016/j.trc.2025.105189,2025,duplicate (same DOI),126
+A0022,Towards Improved Ship Weather Routing Through Multi-Objective Optimization with High Performance Computing Support,Scopus,10.12716/1001.19.01.12,2025,first occurrence,22
+A0022,Towards Improved Ship Weather Routing Through Multi-Objective Optimization with High Performance Computing Support,WoS,10.12716/1001.19.01.12,2025,duplicate (same DOI),127
+A0022,Towards Improved Ship Weather Routing Through Multi-Objective Optimization with High Performance Computing Support,OpenAlex,10.12716/1001.19.01.12,2025,duplicate (same DOI),149
+A0023,Arctic Sea Ice Prediction Based on Multi-Scale Graph Modeling With Conservation Laws,Scopus,10.1029/2024jd042136,2025,first occurrence,23
+A0023,Arctic Sea Ice Prediction Based on Multi-Scale Graph Modeling With Conservation Laws,WoS,10.1029/2024jd042136,2024,duplicate (same DOI),122
+A0024,A novel path-finding approach for maritime search-and-rescue missions incorporating dynamic probability of a target location,Scopus,10.1080/0305215x.2024.2446590,2025,first occurrence,24
+A0024,A novel path-finding approach for maritime search-and-rescue missions incorporating dynamic probability of a target location,WoS,10.1080/0305215x.2024.2446590,2025,duplicate (same DOI),124
+A0024,A novel path-finding approach for maritime search-and-rescue missions incorporating dynamic probability of a target location,OpenAlex,10.1080/0305215x.2024.2446590,2025,duplicate (same DOI),164
+A0025,UAV Path Planning for Maritime Search and Rescue Based on Deep Reinforcement Learning,Scopus,10.1109/iccea65460.2025.11103129,2025,first occurrence,25
+A0025,UAV Path Planning for Maritime Search and Rescue Based on Deep Reinforcement Learning,IEEE,10.1109/iccea65460.2025.11103129,2025,duplicate (same DOI),226
+A0026,MS-PatchTST: Leveraging Multi-Scale Temporal Features for Water Level Forecasting,Scopus,10.1109/icitee66631.2025.11338381,2025,first occurrence,26
+A0026,MS-PatchTST: Leveraging Multi-Scale Temporal Features for Water Level Forecasting,IEEE,10.1109/icitee66631.2025.11338381,2025,duplicate (same DOI),232
+A0027,The Ship Fuel Consumption Prediction Based on Working Conditions Classification,Scopus,10.1109/ccdc65474.2025.11090712,2025,first occurrence,27
+A0027,The Ship Fuel Consumption Prediction Based on Working Conditions Classification,IEEE,10.1109/ccdc65474.2025.11090712,2025,duplicate (same DOI),225
+A0028,Combining Super-Resolution Imaging and Shear Wave Elastography for Enhanced Risk Assessment of Moderate-to-Severe Renal Fibrosis in Chronic Kidney Disease Patients,Scopus,10.2147/ijnrd.s528614,2025,first occurrence,28
+A0029,Real-Time Interaction with a Ship Bridge Simulator via a Multi-Threaded Framework,Scopus,10.1109/icps65515.2025.11087896,2025,first occurrence,29
+A0029,Real-Time Interaction with a Ship Bridge Simulator via a Multi-Threaded Framework,IEEE,10.1109/icps65515.2025.11087896,2025,duplicate (same DOI),223
+A0030,Exploration of Application of Artificial Intelligence Technology in Underwater Acoustic Network Routing Protocols,Scopus,10.11999/jeit250110,2025,first occurrence,30
+A0030,Exploration of Application of Artificial Intelligence Technology in Underwater Acoustic Network Routing Protocols,WoS,10.11999/jeit250110,2025,duplicate (same DOI),130
+A0031,A near real-time carbon accounting framework for the decarbonization of maritime transport,Scopus,10.1016/j.tre.2024.103724,2024,first occurrence,31
+A0031,A near real-time carbon accounting framework for the decarbonization of maritime transport,WoS,10.1016/j.tre.2024.103724,2024,duplicate (same DOI),120
+A0031,A near real-time carbon accounting framework for the decarbonization of maritime transport,OpenAlex,10.1016/j.tre.2024.103724,2024,duplicate (same DOI),159
+A0032,Flow Field Analysis and Development of a Prediction Model Based on Deep Learning,Scopus,10.3390/jmse12111929,2024,first occurrence,32
+A0032,Flow Field Analysis and Development of a Prediction Model Based on Deep Learning,WoS,10.3390/jmse12111929,2024,duplicate (same DOI),121
+A0032,Flow Field Analysis and Development of a Prediction Model Based on Deep Learning,OpenAlex,10.3390/jmse12111929,2024,duplicate (same DOI),174
+A0033,Application of Large Language Models and Assessment of Their Ship-Handling Theory Knowledge and Skills for Connected Maritime Autonomous Surface Ships,Scopus,10.3390/math12152381,2024,first occurrence,33
+A0033,Application of Large Language Models and Assessment of Their Ship-Handling Theory Knowledge and Skills for Connected Maritime Autonomous Surface Ships,WoS,10.3390/math12152381,2024,duplicate (same DOI),119
+A0034,Deep learning framework for vessel trajectory prediction using auxiliary tasks and convolutional networks,Scopus,10.1016/j.engappai.2024.107936,2024,first occurrence,34
+A0034,Deep learning framework for vessel trajectory prediction using auxiliary tasks and convolutional networks,WoS,10.1016/j.engappai.2024.107936,2024,duplicate (same DOI),114
+A0034,Deep learning framework for vessel trajectory prediction using auxiliary tasks and convolutional networks,OpenAlex,10.1016/j.engappai.2024.107936,2024,duplicate (same DOI),153
+A0035,General System Architecture and COTS Prototyping of an AIoT-Enabled Sailboat for Autonomous Aquatic Ecosystem Monitoring,Scopus,10.1109/jiot.2023.3324525,2024,first occurrence,35
+A0035,General System Architecture and COTS Prototyping of an AIoT-Enabled Sailboat for Autonomous Aquatic Ecosystem Monitoring,WoS,10.1109/jiot.2023.3324525,2024,duplicate (same DOI),117
+A0035,General System Architecture and COTS Prototyping of an AIoT-Enabled Sailboat for Autonomous Aquatic Ecosystem Monitoring,IEEE,10.1109/jiot.2023.3324525,2024,duplicate (same DOI),205
+A0036,Wave-motion compensation for USV–UAV cooperation: A model predictive controller approach,Scopus,10.1109/mesa61532.2024.10704910,2024,first occurrence,36
+A0036,Wave-motion compensation for USV–UAV cooperation: A model predictive controller approach,WoS,10.1109/mesa61532.2024.10704910,2024,duplicate (same DOI),123
+A0036,Wave-motion compensation for USV–UAV cooperation: A model predictive controller approach,IEEE,10.1109/mesa61532.2024.10704910,2024,duplicate (same DOI),212
+A0037,A Com-ConvGRU Model Combined with Classification Feature Selection for Hydrogen Ship Load Prediction,Scopus,10.1109/ccsb63463.2024.10735515,2024,first occurrence,37
+A0037,A Com-ConvGRU Model Combined with Classification Feature Selection for Hydrogen Ship Load Prediction,IEEE,10.1109/ccsb63463.2024.10735515,2024,duplicate (same DOI),214
+A0038,Cerulean Information Factory: A New European Space Agency-Funded Project to Develop Decision-Support Tools for the North Atlantic and Arctic Oceans,Scopus,10.1109/oceans55160.2024.10753868,2024,first occurrence,38
+A0038,Cerulean Information Factory: A New European Space Agency-Funded Project to Develop Decision-Support Tools for the North Atlantic and Arctic Oceans,IEEE,10.1109/oceans55160.2024.10753868,2024,duplicate (same DOI),216
+A0039,Collaborative Evolution: Transforming Korolev Infill Wells from Single Wells to Mutli-Well Pad with Optimal Targets,Scopus,10.2118/223465-ms,2024,first occurrence,39
+A0040,Asynchronous Multithreading Reinforcement Control Decision Method for Unmanned Surface Vessel,Scopus,10.1109/jiot.2023.3305387,2023,first occurrence,40
+A0040,Asynchronous Multithreading Reinforcement Control Decision Method for Unmanned Surface Vessel,WoS,10.1109/jiot.2023.3305387,2023,duplicate (same DOI),116
+A0040,Asynchronous Multithreading Reinforcement Control Decision Method for Unmanned Surface Vessel,OpenAlex,10.1109/jiot.2023.3305387,2023,duplicate (same DOI),148
+A0040,Asynchronous Multithreading Reinforcement Control Decision Method for Unmanned Surface Vessel,IEEE,10.1109/jiot.2023.3305387,2023,duplicate (same DOI),202
+A0041,Avoiding sudden maritime risk: A new variable speed route planning model by integrating Spatio-temporal dimension,Scopus,10.1016/j.oceaneng.2023.115950,2023,first occurrence,41
+A0041,Avoiding sudden maritime risk: A new variable speed route planning model by integrating Spatio-temporal dimension,WoS,10.1016/j.oceaneng.2023.115950,2023,duplicate (same DOI),115
+A0041,Avoiding sudden maritime risk: A new variable speed route planning model by integrating Spatio-temporal dimension,OpenAlex,10.1016/j.oceaneng.2023.115950,2023,duplicate (same DOI),160
+A0042,A fast and precise filament winding path planning method based on discrete non-iterative semi-geodesic algorithm for all applicable mandrel,Scopus,10.1016/j.coco.2023.101620,2023,first occurrence,42
+A0042,A fast and precise filament winding path planning method based on discrete non-iterative semi-geodesic algorithm for all applicable mandrel,WoS,10.1016/j.coco.2023.101620,2023,duplicate (same DOI),110
+A0042,A fast and precise filament winding path planning method based on discrete non-iterative semi-geodesic algorithm for all applicable mandrel,OpenAlex,10.1016/j.coco.2023.101620,2023,duplicate (same DOI),163
+A0043,Time-Constrained Service Handoff for Mobile Edge Computing in 5G,Scopus,10.1109/tsc.2022.3208783,2023,first occurrence,43
+A0043,Time-Constrained Service Handoff for Mobile Edge Computing in 5G,WoS,10.1109/tsc.2022.3208783,2023,duplicate (same DOI),111
+A0043,Time-Constrained Service Handoff for Mobile Edge Computing in 5G,IEEE,10.1109/tsc.2022.3208783,2023,duplicate (same DOI),259
+A0044,Surrogate-Assisted Ship Route Optimisation,Scopus,10.1007/978-3-031-36024-4_31,2023,first occurrence,44
+A0045,A Bounded Near-Bottom Cruise Trajectory Planning Algorithm for Underwater Vehicles,Scopus,10.3390/jmse11010007,2023,first occurrence,45
+A0045,A Bounded Near-Bottom Cruise Trajectory Planning Algorithm for Underwater Vehicles,WoS,10.3390/jmse11010007,2023,duplicate (same DOI),108
+A0045,A Bounded Near-Bottom Cruise Trajectory Planning Algorithm for Underwater Vehicles,OpenAlex,10.3390/jmse11010007,2022,duplicate (same DOI),156
+A0046,A Fully-Autonomous Framework of Unmanned Surface Vehicles in Maritime Environments Using Gaussian Process Motion Planning,Scopus,10.1109/joe.2022.3194165,2023,first occurrence,46
+A0046,A Fully-Autonomous Framework of Unmanned Surface Vehicles in Maritime Environments Using Gaussian Process Motion Planning,WoS,10.1109/joe.2022.3194165,2023,duplicate (same DOI),106
+A0046,A Fully-Autonomous Framework of Unmanned Surface Vehicles in Maritime Environments Using Gaussian Process Motion Planning,OpenAlex,10.1109/joe.2022.3194165,2022,duplicate (same DOI),161
+A0046,A Fully-Autonomous Framework of Unmanned Surface Vehicles in Maritime Environments Using Gaussian Process Motion Planning,IEEE,10.1109/joe.2022.3194165,2023,duplicate (same DOI),258
+A0047,"Enabling Maritime Digitalization by Extreme-Scale Analytics, AI and Digital Twins: The Vesselai Architecture",Scopus,10.1007/978-3-031-16075-2_16,2023,first occurrence,47
+A0048,Parallel Implementation of a Sailing Assistance Application in a Cloud Environment,Scopus,10.1109/access.2023.3303282,2023,first occurrence,48
+A0048,Parallel Implementation of a Sailing Assistance Application in a Cloud Environment,WoS,10.1109/access.2023.3303282,2023,duplicate (same DOI),112
+A0048,Parallel Implementation of a Sailing Assistance Application in a Cloud Environment,OpenAlex,10.1109/access.2023.3303282,2023,duplicate (same DOI),150
+A0048,Parallel Implementation of a Sailing Assistance Application in a Cloud Environment,IEEE,10.1109/access.2023.3303282,2023,duplicate (same DOI),201
+A0049,STUDY ON SELF-PROPELLED WAKE CHARACTERISTICS OF SURFACE SHIP,Scopus,10.1115/omae2023-104552,2023,first occurrence,49
+A0049,STUDY ON SELF-PROPELLED WAKE CHARACTERISTICS OF SURFACE SHIP,WoS,,2023,"duplicate (same title, year within 1)",118
+A0050,Quantum Computing Algorithms for Nonlinear Optimization Problems,Scopus,10.52783/cana.v30.i4.279,2023,first occurrence,50
+A0051,Optimal Path Planning of Autonomous Marine Vehicles in Stochastic Dynamic Ocean Flows Using a GPU-Accelerated Algorithm,Scopus,10.1109/joe.2022.3152514,2022,first occurrence,51
+A0051,Optimal Path Planning of Autonomous Marine Vehicles in Stochastic Dynamic Ocean Flows Using a GPU-Accelerated Algorithm,WoS,10.1109/joe.2022.3152514,2022,duplicate (same DOI),105
+A0051,Optimal Path Planning of Autonomous Marine Vehicles in Stochastic Dynamic Ocean Flows Using a GPU-Accelerated Algorithm,OpenAlex,10.1109/joe.2022.3152514,2022,duplicate (same DOI),144
+A0051,Optimal Path Planning of Autonomous Marine Vehicles in Stochastic Dynamic Ocean Flows Using a GPU-Accelerated Algorithm,IEEE,10.1109/joe.2022.3152514,2022,duplicate (same DOI),257
+A0052,GPU-Accelerated Multi-Objective Optimal Planning in Stochastic Dynamic Environments,Scopus,10.3390/jmse10040533,2022,first occurrence,52
+A0052,GPU-Accelerated Multi-Objective Optimal Planning in Stochastic Dynamic Environments,WoS,10.3390/jmse10040533,2022,duplicate (same DOI),104
+A0052,GPU-Accelerated Multi-Objective Optimal Planning in Stochastic Dynamic Environments,OpenAlex,10.3390/jmse10040533,2022,duplicate (same DOI),155
+A0053,Adaptive Surrogate-Assisted Optimal Sailboat Path Search Using Onboard Computers,Scopus,10.1007/978-3-031-08757-8_30,2022,first occurrence,53
+A0053,Adaptive Surrogate-Assisted Optimal Sailboat Path Search Using Onboard Computers,WoS,10.1007/978-3-031-08757-8_30,2022,duplicate (same DOI),107
+A0054,Prediction of Actual Passing Distance for Path Planning of Unmanned Surface Ships,Scopus,10.1109/oceans47191.2022.9977368,2022,first occurrence,54
+A0055,Optimising Maritime Processes Via Artificial Intelligence: The VesselAI Concept And Use Cases,Scopus,10.1109/iisa56318.2022.9904345,2022,first occurrence,55
+A0055,Optimising Maritime Processes Via Artificial Intelligence: The VesselAI Concept And Use Cases,IEEE,10.1109/iisa56318.2022.9904345,2022,duplicate (same DOI),262
+A0056,Importance of early fault diagnosis for marine diesel engines: a case study on efficiency management and environment,Scopus,10.1080/17445302.2020.1835077,2022,first occurrence,56
+A0057,A method for assessing ship operability in dynamic ice for independent navigation and escort operations,Scopus,10.1016/j.oceaneng.2021.108830,2021,first occurrence,57
+A0057,A method for assessing ship operability in dynamic ice for independent navigation and escort operations,WoS,10.1016/j.oceaneng.2021.108830,2021,duplicate (same DOI),100
+A0057,A method for assessing ship operability in dynamic ice for independent navigation and escort operations,OpenAlex,10.1016/j.oceaneng.2021.108830,2021,duplicate (same DOI),157
+A0058,Many-Objective Maritime Path Planning for Dynamic and Uncertain Environments,Scopus,10.1109/aero50100.2021.9438262,2021,first occurrence,58
+A0059,"Ship routing and scheduling systems: forecasting, upscaling and viability",Scopus,10.1108/mabr-04-2020-0027,2021,first occurrence,59
+A0059,"Ship routing and scheduling systems: forecasting, upscaling and viability",WoS,10.1108/mabr-04-2020-0027,2021,duplicate (same DOI),101
+A0060,Search Path Planning Algorithm Based on the Probability of Containment Model,Scopus,10.1155/2021/7459239,2021,first occurrence,60
+A0060,Search Path Planning Algorithm Based on the Probability of Containment Model,WoS,10.1155/2021/7459239,2021,duplicate (same DOI),99
+A0061,Pruned Simulation-Based Optimal Sailboat Path Search Using Micro HPC Systems,Scopus,10.1007/978-3-030-77970-2_13,2021,first occurrence,61
+A0062,"The collaborative autonomous shipping experiment (Case): Motivations, theory, infrastructure, and experimental challenges",Scopus,10.24868/issn.2631-8741.2020.014,2020,first occurrence,62
+A0063,Model predictive control of a shipborne hydraulic parallel stabilized platform based on ship motion prediction,Scopus,10.1109/access.2020.2992458,2020,first occurrence,63
+A0063,Model predictive control of a shipborne hydraulic parallel stabilized platform based on ship motion prediction,WoS,10.1109/access.2020.2992458,2020,duplicate (same DOI),95
+A0064,Time-Optimal Multi-Waypoint Mission Planning in Dynamic Environments,Scopus,10.1109/oceans.2018.8604683,2019,first occurrence,64
+A0064,Time-Optimal Multi-Waypoint Mission Planning in Dynamic Environments,Scopus,10.1109/oceans.2018.8604505,2019,"duplicate (same title, year within 1)",65
+A0064,Time-Optimal Multi-Waypoint Mission Planning in Dynamic Environments,WoS,,2018,"duplicate (same title, year within 1)",93
+A0064,Time-Optimal Multi-Waypoint Mission Planning in Dynamic Environments,WoS,,2018,"duplicate (same title, year within 1)",94
+A0064,Time-Optimal Multi-Waypoint Mission Planning in Dynamic Environments,IEEE,10.1109/oceans.2018.8604683,2018,duplicate (same DOI),248
+A0065,Research on the Efficiency and Application of Ship-Helicopter Cooperative Search,Scopus,10.1007/978-3-030-24274-9_28,2019,first occurrence,66
+A0066,MPPI parallel trajectory optimization for guidance in rotorcraft shipboard landing,Scopus,,2019,first occurrence,67
+A0067,Application and prospect of new technology in inland waterway regulation,Scopus,10.1061/9780784482742.024,2019,first occurrence,68
+A0067,Application and prospect of new technology in inland waterway regulation,WoS,,2019,"duplicate (same title, year within 1)",98
+A0068,The optimal route planning for inspection task of autonomous underwater vehicle composed of MOPSO-based dynamic routing algorithm in currents,Scopus,10.1016/j.apor.2018.03.016,2018,first occurrence,69
+A0068,The optimal route planning for inspection task of autonomous underwater vehicle composed of MOPSO-based dynamic routing algorithm in currents,WoS,10.1016/j.apor.2018.03.016,2018,duplicate (same DOI),92
+A0068,The optimal route planning for inspection task of autonomous underwater vehicle composed of MOPSO-based dynamic routing algorithm in currents,OpenAlex,10.1016/j.apor.2018.03.016,2018,duplicate (same DOI),146
+A0069,Development of the embry-riddle aeronautical university wave adaptive modular vessel as an integral part of a heterogeneous intelligent teaming system,Scopus,,2017,first occurrence,70
+A0070,An adaptive multi-spline refinement algorithm in simulation based sailboat trajectory optimization using onboard multi-core computer systems,Scopus,10.1515/amcs-2016-0025,2016,first occurrence,71
+A0070,An adaptive multi-spline refinement algorithm in simulation based sailboat trajectory optimization using onboard multi-core computer systems,WoS,10.1515/amcs-2016-0025,2016,duplicate (same DOI),90
+A0070,An adaptive multi-spline refinement algorithm in simulation based sailboat trajectory optimization using onboard multi-core computer systems,OpenAlex,10.1515/amcs-2016-0025,2016,duplicate (same DOI),147
+A0071,Maritime Unmanned Vehicle Cruise Path Planning for Maritime Information Collection,Scopus,10.1016/j.ifacol.2016.10.328,2016,first occurrence,72
+A0072,"System architecture, Development and results ofthe embry-riddle aeronautical university maritime robotX platform",Scopus,,2015,first occurrence,73
+A0073,Tandem-L: Design challenges for a LEO satellite with a large deployable reflector,Scopus,,2015,first occurrence,74
+A0074,The development of the erau maritime robotx challenge autonomous system,Scopus,,2014,first occurrence,75
+A0075,Ship cable management,Scopus,10.5957/smc-2012-p08,2012,first occurrence,76
+A0076,A three-layered architecture for real time path planning and obstacle avoidance for surveillance USVs operating in harbour fields,Scopus,10.1109/oceanse.2009.5278104,2009,first occurrence,77
+A0076,A three-layered architecture for real time path planning and obstacle avoidance for surveillance USVs operating in harbour fields,WoS,,2009,"duplicate (same title, year within 1)",86
+A0076,A three-layered architecture for real time path planning and obstacle avoidance for surveillance USVs operating in harbour fields,IEEE,10.1109/oceanse.2009.5278104,2009,duplicate (same DOI),241
+A0077,Development of a K-edge micro CT for the study of tumor angiogenesis in small animals,Scopus,10.1117/12.651311,2006,first occurrence,78
+A0077,Development of a K-edge micro CT for the study of tumor angiogenesis in small animals,WoS,10.1117/12.651311,2006,duplicate (same DOI),85
+A0078,Parallel dynamic programming and ship voyage management,Scopus,10.1002/cpe.4330060805,1994,first occurrence,79
+A0078,Parallel dynamic programming and ship voyage management,WoS,10.1002/cpe.4330060805,1994,duplicate (same DOI),81
+A0078,Parallel dynamic programming and ship voyage management,OpenAlex,10.1002/cpe.4330060805,1994,duplicate (same DOI),154
+A0079,UNIQUE DATA PROCESSING AND DISTRIBUTION SYSTEM.,Scopus,,1986,first occurrence,80
+A0080,Large-scale cloud features during January 1993 in the north Atlantic Ocean as determined from SSM/I and SSM/T2 observations,WoS,10.1029/95jd03859,1996,first occurrence,82
+A0081,A genetic algorithm applied to planning search paths in complicated environments,WoS,10.5711/morj.8.2.45,2003,first occurrence,83
+A0082,A real-time geo-spatial information system: an integration of GIS technologies for ice forecasting,WoS,,2004,first occurrence,84
+A0083,GPU based generation of state transition models using simulations for unmanned surface vehicle trajectory planning,WoS,10.1016/j.robot.2012.07.009,2012,first occurrence,87
+A0084,Automated Self-Assembly of Large Maritime Structures by a Team of Robotic Boats,WoS,10.1109/tase.2015.2416678,2015,first occurrence,88
+A0085,SIMULATION-BASED SAILBOAT TRAJECTORY OPTIMIZATION USING ON-BOARD HETEROGENEOUS COMPUTERS,WoS,10.7494/csci.2016.17.4.461,2016,first occurrence,89
+A0085,SIMULATION-BASED SAILBOAT TRAJECTORY OPTIMIZATION USING ON-BOARD HETEROGENEOUS COMPUTERS,OpenAlex,10.7494/csci.2016.17.4.461,2016,duplicate (same DOI),152
+A0086,3D reconstruction of elastin fibres in coronary adventitia,WoS,10.1111/jmi.12470,2017,first occurrence,91
+A0087,MULTI-PHASE SIMULATION OF DROPLET TRAJECTORIES OF WAVE-IMPACT SEA SPRAY OVER A VESSEL,WoS,,2019,first occurrence,96
+A0088,Extracting Maritime Traffic Networks from AIS Data Using Evolutionary Algorithm,WoS,10.1007/s12599-020-00661-0,2020,first occurrence,97
+A0089,Space Debris Mitigation and Remediation: Historical Best Practices and Lessons Learned for Economically Preserving and Utilizing Common Areas,WoS,10.1089/space.2021.0022,2022,first occurrence,102
+A0090,Deep Space Habitation: Establishing a Sustainable Human Presence on the Moon and Beyond,WoS,10.1109/aero50100.2021.9438260,2021,first occurrence,103
+A0091,Collision avoidance control algorithm for USV based on dynamic constraints,WoS,,2022,first occurrence,109
+A0091,Collision avoidance control algorithm for USV based on dynamic constraints,IEEE,10.23919/ccc55666.2022.9901671,2022,"duplicate (same title, year within 1)",260
+A0092,An Efficient Maritime Route Planning Method Based on an Improved A* with an Adaptive Heuristic Function and Parallel Computing Structure,WoS,10.3390/app131910873,2023,first occurrence,113
+A0092,An Efficient Maritime Route Planning Method Based on an Improved A* with an Adaptive Heuristic Function and Parallel Computing Structure,OpenAlex,10.3390/app131910873,2023,duplicate (same DOI),151
+A0093,Warm start for optimal transfer between close circular orbits with first generation E-sail,WoS,10.1016/j.asr.2024.07.070,2025,first occurrence,125
+A0094,Mission analysis for the first-ever Saturn Trojan 2019 UO14,WoS,10.1016/j.asr.2025.06.016,2025,first occurrence,128
+A0095,Depth-Oriented Cooperative Mission Planning for Hierarchical Multi-AUV Data Harvesting in Large-Scale Underwater Sensor Networks,WoS,10.1109/access.2026.3706982,2026,first occurrence,142
+A0095,Depth-Oriented Cooperative Mission Planning for Hierarchical Multi-AUV Data Harvesting in Large-Scale Underwater Sensor Networks,IEEE,10.1109/access.2026.3706982,2026,duplicate (same DOI),238
+A0096,"Adaptive calibration of(u,v)‐wind ensemble forecasts",OpenAlex,10.1002/qj.1873,2012,first occurrence,145
+A0097,Smart Routing for Sustainable Shipping: A Review of Trajectory Optimization Approaches in Waterborne Transport,OpenAlex,10.3390/su17188466,2025,first occurrence,162
+A0098,GIS-based floating offshore wind turbine installation site selection using fuzzy analytic hierarchy process in northeast Aegean Sea,OpenAlex,10.21278/brod75204,2024,first occurrence,166
+A0099,50th anniversary of Numerical Weather Prediction ( NWP ) in the UK,OpenAlex,10.1002/wea.2759,2016,first occurrence,169
+A0100,A method for observing compression in sea ice fields using IceCam,OpenAlex,10.1016/j.coldregions.2009.06.007,2009,first occurrence,170
+A0101,A Mechanism on Parallel Processing to Numerical Weather Prediction for Weather Routing-II : Accuracy Evaluation and Performance Benchmark of the Sea Surface Wind Prediction,OpenAlex,10.9749/jin.123.39,2010,first occurrence,171
+A0102,A Mechanism on Parallel Processing to Numerical Weather Prediction for Weather Routing : Proposal of WRF Model Introduction and Deployment and Benchmark,OpenAlex,10.9749/jin.121.19,2009,first occurrence,172
+A0103,A Mechanism on Parallel Processing to Numerical Weather Prediction for Weather Routing-II : Accuracy Evaluation and Performance Benchmark of the Sea Surface Wind Prediction(Summaries of Papers published by Staff of National Maritime Research Institute at Outside Organizations),OpenAlex,,2010,first occurrence,173
+A0104,On the Parametrization of the Three-Dimensional Rotation Group,OpenAlex,10.1137/1006093,1964,first occurrence,177
+A0105,INFLUENCE HUMAN FACTOR ON SAFETY’S PLANNING ROUTE OF WATER TRANSPORT,OpenAlex,10.33815/2313-4763.2021.1.24.057-070,2021,first occurrence,178
+A0106,Propeller Machining Tool Path Planning Based on the Flow Lines,OpenAlex,,2014,first occurrence,180
+A0107,Visualization concepts for representing spatiotemporal vagueness in colonial collection research using the example of historical ship journeys,OpenAlex,10.5194/ica-abs-10-80-2025,2025,first occurrence,181
+A0108,Wave-induced upwelling over the Mid-Atlantic Ridge near the Azores front,OpenAlex,10.21046/2070-7401-2016-13-6-75-85,2016,first occurrence,182
+A0109,Heparan sulfate proteoglycans at a glance,OpenAlex,10.1242/jcs.03432,2007,first occurrence,183
+A0110,Path Optimization Problems: Traveling Salesman and P vs NP Refinement: Gradient Relief Resolution via Axle-Sync Substrate,OpenAlex,10.5281/zenodo.18878761,2026,first occurrence,184
+A0110,Path Optimization Problems: Traveling Salesman and P vs NP Refinement: Gradient Relief Resolution via Axle-Sync Substrate,OpenAlex,10.5281/zenodo.18878760,2026,"duplicate (same title, year within 1)",185
+A0111,Rapid Method for Computing Reachable Landing Distances in Helicopter Autorotative Descent,OpenAlex,10.2514/1.i011035,2022,first occurrence,186
+A0112,The Hex-Plate Substrate Computer: Physical Geometric Computing: Native Pathfinding and O(1) Complexity via Hexagonal-Bilateral Hardware,OpenAlex,10.5281/zenodo.18878804,2026,first occurrence,187
+A0112,The Hex-Plate Substrate Computer: Physical Geometric Computing: Native Pathfinding and O(1) Complexity via Hexagonal-Bilateral Hardware,OpenAlex,10.5281/zenodo.18878805,2026,"duplicate (same title, year within 1)",188
+A0113,"Strategic management of a healthcare organization: engagement, behavioural indicators, and clinical performance",OpenAlex,10.1093/eurheartj/suv003,2015,first occurrence,189
+A0114,D.4.4.1. Operational prototype of the DSS for Eco-routes,OpenAlex,10.5281/zenodo.6974252,2022,first occurrence,191
+A0115,Development of ERAU Minion Autonomous Surface Vehicle,OpenAlex,,2014,first occurrence,192
+A0116,"Innovations in Applied Artificial Intelligence. 18th International Conference on Industrial and Engineering Applications of Artificial Intelligence and Expert Systems, IEA/AIE 2005, Bari, Italy, June 22-24, 2005, Proceedings",OpenAlex,,2005,first occurrence,193
+A0117,"Directional Mapping in X-Space from Hex Lattice Dipole Weighting: Deriving Navigation, Rotation, and Vector Operations as Integer Dipole Combinations Without Continuous Angles",OpenAlex,10.5281/zenodo.18878818,2026,first occurrence,194
+A0117,"Directional Mapping in X-Space from Hex Lattice Dipole Weighting: Deriving Navigation, Rotation, and Vector Operations as Integer Dipole Combinations Without Continuous Angles",OpenAlex,10.5281/zenodo.18878819,2026,"duplicate (same title, year within 1)",195
+A0118,"Logismos Practical Applications and Industrial Translation: Converting Legacy Continuous Mathematics to Lossless Integer Registry Operations via (V,F,R) Packet Auditing",OpenAlex,10.5281/zenodo.18878614,2026,first occurrence,196
+A0118,"Logismos Practical Applications and Industrial Translation: Converting Legacy Continuous Mathematics to Lossless Integer Registry Operations via (V,F,R) Packet Auditing",OpenAlex,10.5281/zenodo.18878615,2026,"duplicate (same title, year within 1)",197
+A0119,"Tenth Japanese‐German Workshop on Molecular and Cellular Aspects of Carcinogenesis, Essen, Germany, 29 September–1 October 2005",OpenAlex,10.1111/j.1349-7006.2006.00177.x,2006,first occurrence,198
+A0120,The Rising Trends of Smart E-Commerce Logistics,IEEE,10.1109/access.2023.3252566,2023,first occurrence,199
+A0121,Enhanced Global Optimization With Parallel Global and Local Structures for Real-Time Control Systems,IEEE,10.1109/tase.2023.3277888,2024,first occurrence,200
+A0122,UAV Maritime Search and Rescue Based on Improved A* and RCPP Algorithms for Path Planning,IEEE,10.1109/icpics58376.2023.10235725,2023,first occurrence,203
+A0123,"Ripples: A tool for oceanic campaign managing, supervision, and situational awareness",IEEE,10.1109/oceanslimerick52467.2023.10244653,2023,first occurrence,204
+A0124,Coverage Path Planning for UAV Based on Improved Back-and-Forth Mode,IEEE,10.1109/access.2023.3325483,2023,first occurrence,206
+A0125,Virtual-reality-based design and implementation with a parallel physical simulation platform for unmanned surface vehicle,IEEE,10.1109/iccsi58851.2023.10303993,2023,first occurrence,207
+A0126,Optimal Ship Route Search Based on Multi-Objective Genetic Algorithm,IEEE,10.1109/icccnt56998.2023.10307569,2023,first occurrence,208
+A0127,Research on Route Optimization System of Logistics Distribution Center Based on Computer Big Data Technology,IEEE,10.1109/iciscae59047.2023.10393328,2023,first occurrence,209
+A0128,A Multibeam Line Planning Model Based on Differential Evolutionary Approach,IEEE,10.1109/eebda60612.2024.10485823,2024,first occurrence,210
+A0129,Optimal Motion Planning for Heterogeneous Multi-USV Systems Using Hexagonal Grid-Based Neural Networks and Parallelogram Law Under Ocean Currents,IEEE,10.1109/tsmc.2024.3375282,2025,first occurrence,211
+A0130,A Survey of Automatic Driving Environment Perception,IEEE,10.1109/qrs-c63300.2024.00137,2024,first occurrence,213
+A0131,Design of Ship Navigation Data Storage and Backup System Based on Cloud Computing,IEEE,10.1109/ccsb63463.2024.10735700,2024,first occurrence,215
+A0132,Parallel Systems Framework: A Safe and Efficient Testbed for Unmanned Ships,IEEE,10.1109/dtpi61353.2024.10778783,2024,first occurrence,217
+A0133,Obstacle Intention Awareness in Automatic Ship Collision Avoidance: Full-Scale Experiments in Confined Waters,IEEE,10.55417/fr.2024007,2024,first occurrence,218
+A0134,Research on the Application of Intelligent Ship Navigation Optimization Algorithm in Complex Sea Conditions,IEEE,10.1109/citsc64390.2025.00130,2025,first occurrence,219
+A0135,Multi-Platform Collaborative MRC-PSO Algorithm for Anti-Ship Missile Path Planning,IEEE,10.23919/jsee.2025.000026,2025,first occurrence,220
+A0136,Insights into Optimization Design and Energy Management of Marine Parallel Hybrid Power System,IEEE,10.1109/tte.2025.3577152,2025,first occurrence,221
+A0137,AR-Based Hybrid Human-AI Decision Support System for Maritime Navigation,IEEE,10.1109/aicconf64766.2025.11063974,2025,first occurrence,222
+A0138,Sea Savior the Smart Robotic Boat Protecting Marine Life Using IoT,IEEE,10.1109/icirca65293.2025.11089876,2025,first occurrence,224
+A0139,A Real-Time Processed Static Mapping for Surface Vessel Navigation with LiDAR,IEEE,10.1109/oceans58557.2025.11104367,2025,first occurrence,227
+A0140,FLP-XR: Future Location Prediction on Extreme Scale Maritime Data in Real-time,IEEE,10.1109/maris64137.2025.11139472,2025,first occurrence,228
+A0141,Optimizing Data Warehouses for High-Performance Analytics: Methods and Models,IEEE,10.1109/icimia67127.2025.11200981,2025,first occurrence,230
+A0142,Ship Route Optimization using Genetic Algorithm on the Capacitated Multi-Vehicle Routing Problem with Pick-Up and Delivery,IEEE,10.1109/eecsi67060.2025.11290513,2025,first occurrence,231
+A0143,Research on the Fusion Algorithm of Intelligent Ship Autonomous Navigation System and Big Data Analysis,IEEE,10.1109/iccect64621.2025.11339710,2025,first occurrence,233
+A0144,Robotic Process Automation in Industry 4.0: Optimizing Manufacturing and Logistics,IEEE,10.1109/icicat68430.2025.11414689,2025,first occurrence,234
+A0145,A Bi-Directional Adaptive Framework for Agile UAV Landing,IEEE,10.1109/lra.2026.3671567,2026,first occurrence,235
+A0146,A DRL-Based Collision Avoidance Method for USVs With Distributed Priority and Curriculum Learning,IEEE,10.1109/jsyst.2026.3691660,2026,first occurrence,237
+A0147,Dynamic Route Optimization for High-Volume Logistics Using Risk-Aware Multi-Objective Path Reassignment,IEEE,10.1109/conit69683.2026.11621622,2026,first occurrence,239
+A0148,Voyage Analysis Applied to Geovisual Analytics,IEEE,10.1109/iv.2008.32,2008,first occurrence,240
+A0149,"Route 20, Autobahn 7, and Slime Mold: Approximating the Longest Roads in USA and Germany With Slime Mold on 3-D Terrains",IEEE,10.1109/tcyb.2013.2248359,2014,first occurrence,242
+A0150,AUV and ASV in twinned navigation for long term multipurpose survey applications,IEEE,10.1109/oceans-bergen.2013.6608127,2013,first occurrence,243
+A0151,Kelpie: A ROS-Based Multi-robot Simulator for Water Surface and Aerial Vehicles,IEEE,10.1109/smc.2013.621,2013,first occurrence,244
+A0152,Integrated satellite data for navigation in Arctic waters,IEEE,10.1049/ic:19980089,1998,first occurrence,245
+A0153,Robust Distributed Predictive Control of Waterborne AGVs—A Cooperative and Cost-Effective Approach,IEEE,10.1109/tcyb.2017.2740558,2018,first occurrence,246
+A0154,Socio-technical challenges of smart fleet equipment management systems in the maritime industry,IEEE,10.1109/icisct.2017.8188591,2017,first occurrence,247
+A0155,Collision Avoidance Planning Method of USV Based on Improved Ant Colony Optimization Algorithm,IEEE,10.1109/access.2019.2907783,2019,first occurrence,249
+A0156,Concurrent Processing Cluster Design to Empower Simultaneous Prediction for Hundreds of Vessels’ Trajectories in Near Real-Time,IEEE,10.1109/tsmc.2019.2906381,2021,first occurrence,250
+A0157,Minimum Time Recovery of Parallel Converters under Step Change Conditions,IEEE,10.1109/ests.2019.8847835,2019,first occurrence,251
+A0158,A Direction-Constrained Space-Time Prism-Based Approach for Quantifying Possible Multi-Ship Collision Risks,IEEE,10.1109/tits.2019.2955048,2021,first occurrence,252
+A0159,Dynamic Autonomous Surface Vehicle Control and Applications in Environmental Monitoring,IEEE,10.23919/oceans40490.2019.8962820,2019,first occurrence,253
+A0160,Path Planning and Robot Localization using Internet of Things and Machine Intelligence,IEEE,10.1109/icssit46314.2019.8987894,2019,first occurrence,254
+A0161,A Review of UAV Ferry Algorithms in Delay Tolerant Network,IEEE,10.1109/iscid.2019.10104,2019,first occurrence,255
+A0162,Optimal AUV trajectory planning and execution control for maritime pollution incident response,IEEE,10.23919/oceans44145.2021.9705986,2021,first occurrence,256
+A0163,Research on Vision-Based Object Detection Algorithm for Marine Obstacles,IEEE,10.23919/ccc55666.2022.9902137,2022,first occurrence,261
+A0164,Ship Collision Avoidance and Anti Grounding Using Parallelized Cost Evaluation in Probabilistic Scenario-Based Model Predictive Control,IEEE,10.1109/access.2022.3215654,2022,first occurrence,263
+A0165,Path Planning of Unmanned Surface Vehicle Port Docking Based on Improved Double Deep Q-Network,IEEE,10.1109/icoias56028.2022.9931209,2022,first occurrence,264
+A0166,UAV as a Data Ferry for a Sparse Adaptive WSN,IEEE,10.1109/apcc55198.2022.9943645,2022,first occurrence,265
+A0167,Path Selection of Freedom of Sea and Freedom of Navigation Based on Finite Difference Time Domain Algorithm and Positioning System,IEEE,10.1109/icirca54612.2022.9985579,2022,first occurrence,266

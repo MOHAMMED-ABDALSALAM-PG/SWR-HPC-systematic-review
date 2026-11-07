@@ -1,0 +1,283 @@
+source_id,target_id,source_label,target_label,records_with_both
+1,2,path planning,usv,10
+1,3,path planning,auv,10
+1,4,path planning,collision avoidance,2
+1,5,path planning,search and rescue,3
+1,6,path planning,deep reinforcement learning,3
+1,7,path planning,cloud computing,2
+1,10,path planning,autonomous surface vehicle,3
+1,11,path planning,genetic algorithm,2
+1,12,path planning,optimization,3
+1,16,path planning,multi-objective optimization,1
+1,19,path planning,parallel computing,1
+1,20,path planning,reinforcement learning,3
+1,22,path planning,edge computing,2
+1,23,path planning,neural network,1
+1,24,path planning,simulation,1
+1,25,path planning,trajectory optimization,1
+1,26,path planning,a*,2
+1,27,path planning,colregs,1
+1,28,path planning,control,1
+1,32,path planning,obstacle avoidance,3
+1,33,path planning,uuv,3
+1,34,path planning,ant colony optimization,1
+1,35,path planning,dynamic programming,1
+1,37,path planning,fuzzy logic,1
+1,40,path planning,mobile edge computing,1
+1,41,path planning,mobile robot,1
+1,47,path planning,algorithm,1
+1,49,path planning,autonomous ship,1
+1,52,path planning,decision support system,1
+1,54,path planning,evolutionary algorithms,2
+1,57,path planning,large language model,1
+1,60,path planning,multi-agent system,1
+1,61,path planning,particle swarm optimization,2
+1,62,path planning,proximal policy optimization,2
+2,3,usv,auv,3
+2,4,usv,collision avoidance,4
+2,6,usv,deep reinforcement learning,4
+2,8,usv,uav,3
+2,10,usv,autonomous surface vehicle,2
+2,14,usv,deep learning,1
+2,15,usv,object detection,1
+2,16,usv,multi-objective optimization,1
+2,17,usv,trajectory planning,1
+2,18,usv,internet of things,2
+2,22,usv,edge computing,2
+2,23,usv,neural network,2
+2,24,usv,simulation,1
+2,26,usv,a*,1
+2,27,usv,colregs,1
+2,30,usv,motion planning,1
+2,33,usv,uuv,1
+2,34,usv,ant colony optimization,1
+2,36,usv,autonomous navigation,1
+2,37,usv,fuzzy logic,1
+2,43,usv,multi-agent reinforcement learning,1
+2,46,usv,underwater vehicle,1
+2,50,usv,autonomous vehicles,1
+2,51,usv,computer vision,1
+2,52,usv,decision support system,1
+2,58,usv,marine robotics,1
+2,59,usv,motion control,1
+2,62,usv,proximal policy optimization,1
+3,4,auv,collision avoidance,1
+3,5,auv,search and rescue,1
+3,6,auv,deep reinforcement learning,2
+3,7,auv,cloud computing,1
+3,9,auv,artificial intelligence,1
+3,10,auv,autonomous surface vehicle,2
+3,11,auv,genetic algorithm,1
+3,15,auv,object detection,1
+3,17,auv,trajectory planning,1
+3,19,auv,parallel computing,1
+3,21,auv,machine learning,1
+3,23,auv,neural network,1
+3,25,auv,trajectory optimization,2
+3,26,auv,a*,1
+3,33,auv,uuv,1
+3,34,auv,ant colony optimization,1
+3,43,auv,multi-agent reinforcement learning,1
+3,46,auv,underwater vehicle,1
+3,47,auv,algorithm,2
+3,50,auv,autonomous vehicles,1
+3,53,auv,energy efficiency,1
+3,54,auv,evolutionary algorithms,2
+3,55,auv,fpga,1
+3,57,auv,large language model,2
+3,58,auv,marine robotics,1
+3,61,auv,particle swarm optimization,2
+4,6,collision avoidance,deep reinforcement learning,4
+4,7,collision avoidance,cloud computing,1
+4,10,collision avoidance,autonomous surface vehicle,1
+4,12,collision avoidance,optimization,2
+4,13,collision avoidance,ais,2
+4,27,collision avoidance,colregs,3
+4,31,collision avoidance,navigation,2
+4,33,collision avoidance,uuv,1
+4,35,collision avoidance,dynamic programming,1
+4,36,collision avoidance,autonomous navigation,1
+4,37,collision avoidance,fuzzy logic,2
+4,49,collision avoidance,autonomous ship,2
+4,54,collision avoidance,evolutionary algorithms,1
+5,6,search and rescue,deep reinforcement learning,1
+5,8,search and rescue,uav,5
+5,10,search and rescue,autonomous surface vehicle,1
+5,12,search and rescue,optimization,2
+5,14,search and rescue,deep learning,1
+5,15,search and rescue,object detection,3
+5,22,search and rescue,edge computing,1
+5,23,search and rescue,neural network,1
+5,24,search and rescue,simulation,1
+5,26,search and rescue,a*,2
+5,31,search and rescue,navigation,1
+5,39,search and rescue,high-performance computing,1
+5,51,search and rescue,computer vision,2
+5,52,search and rescue,decision support system,1
+5,54,search and rescue,evolutionary algorithms,1
+5,57,search and rescue,large language model,1
+5,62,search and rescue,proximal policy optimization,1
+6,10,deep reinforcement learning,autonomous surface vehicle,1
+6,17,deep reinforcement learning,trajectory planning,2
+6,27,deep reinforcement learning,colregs,2
+6,33,deep reinforcement learning,uuv,1
+6,36,deep reinforcement learning,autonomous navigation,1
+6,40,deep reinforcement learning,mobile edge computing,2
+6,61,deep reinforcement learning,particle swarm optimization,1
+6,62,deep reinforcement learning,proximal policy optimization,2
+7,9,cloud computing,artificial intelligence,2
+7,18,cloud computing,internet of things,1
+7,20,cloud computing,reinforcement learning,1
+7,21,cloud computing,machine learning,2
+7,22,cloud computing,edge computing,1
+7,25,cloud computing,trajectory optimization,1
+7,31,cloud computing,navigation,3
+7,52,cloud computing,decision support system,1
+7,53,cloud computing,energy efficiency,1
+7,57,cloud computing,large language model,1
+7,60,cloud computing,multi-agent system,1
+8,14,uav,deep learning,1
+8,15,uav,object detection,2
+8,21,uav,machine learning,1
+8,26,uav,a*,1
+8,31,uav,navigation,1
+8,43,uav,multi-agent reinforcement learning,1
+8,47,uav,algorithm,1
+9,11,artificial intelligence,genetic algorithm,1
+9,13,artificial intelligence,ais,1
+9,16,artificial intelligence,multi-objective optimization,1
+9,18,artificial intelligence,internet of things,3
+9,19,artificial intelligence,parallel computing,1
+9,20,artificial intelligence,reinforcement learning,1
+9,21,artificial intelligence,machine learning,3
+9,32,artificial intelligence,obstacle avoidance,1
+9,39,artificial intelligence,high-performance computing,2
+9,41,artificial intelligence,mobile robot,1
+9,49,artificial intelligence,autonomous ship,1
+9,51,artificial intelligence,computer vision,1
+10,23,autonomous surface vehicle,neural network,1
+10,28,autonomous surface vehicle,control,2
+10,33,autonomous surface vehicle,uuv,1
+10,36,autonomous surface vehicle,autonomous navigation,1
+10,42,autonomous surface vehicle,model predictive control,1
+10,46,autonomous surface vehicle,underwater vehicle,1
+10,50,autonomous surface vehicle,autonomous vehicles,1
+10,51,autonomous surface vehicle,computer vision,1
+10,57,autonomous surface vehicle,large language model,1
+10,62,autonomous surface vehicle,proximal policy optimization,1
+11,12,genetic algorithm,optimization,2
+11,13,genetic algorithm,ais,1
+11,30,genetic algorithm,motion planning,1
+11,38,genetic algorithm,gpu,1
+11,44,genetic algorithm,navigational performance,1
+11,47,genetic algorithm,algorithm,1
+12,19,optimization,parallel computing,1
+12,24,optimization,simulation,1
+12,26,optimization,a*,1
+12,35,optimization,dynamic programming,1
+12,49,optimization,autonomous ship,1
+12,52,optimization,decision support system,1
+13,14,ais,deep learning,1
+13,21,ais,machine learning,1
+13,49,ais,autonomous ship,1
+14,15,deep learning,object detection,2
+14,22,deep learning,edge computing,1
+14,29,deep learning,convolutional neural network,3
+14,32,deep learning,obstacle avoidance,1
+14,36,deep learning,autonomous navigation,1
+14,48,deep learning,attention mechanism,4
+14,51,deep learning,computer vision,1
+15,21,object detection,machine learning,1
+15,22,object detection,edge computing,1
+15,29,object detection,convolutional neural network,1
+15,32,object detection,obstacle avoidance,1
+15,36,object detection,autonomous navigation,1
+15,48,object detection,attention mechanism,1
+15,51,object detection,computer vision,1
+15,55,object detection,fpga,2
+15,58,object detection,marine robotics,1
+16,34,multi-objective optimization,ant colony optimization,1
+16,37,multi-objective optimization,fuzzy logic,1
+16,38,multi-objective optimization,gpu,1
+16,39,multi-objective optimization,high-performance computing,2
+16,46,multi-objective optimization,underwater vehicle,1
+17,19,trajectory planning,parallel computing,1
+17,24,trajectory planning,simulation,1
+17,26,trajectory planning,a*,1
+17,40,trajectory planning,mobile edge computing,1
+17,61,trajectory planning,particle swarm optimization,1
+18,29,internet of things,convolutional neural network,1
+18,41,internet of things,mobile robot,1
+19,20,parallel computing,reinforcement learning,1
+19,25,parallel computing,trajectory optimization,1
+19,26,parallel computing,a*,2
+19,32,parallel computing,obstacle avoidance,1
+19,38,parallel computing,gpu,2
+19,42,parallel computing,model predictive control,1
+19,49,parallel computing,autonomous ship,1
+19,60,parallel computing,multi-agent system,1
+20,21,reinforcement learning,machine learning,1
+20,26,reinforcement learning,a*,1
+20,34,reinforcement learning,ant colony optimization,1
+20,49,reinforcement learning,autonomous ship,1
+20,60,reinforcement learning,multi-agent system,3
+21,51,machine learning,computer vision,1
+22,27,edge computing,colregs,1
+22,29,edge computing,convolutional neural network,1
+22,32,edge computing,obstacle avoidance,1
+22,36,edge computing,autonomous navigation,1
+22,57,edge computing,large language model,1
+23,24,neural network,simulation,1
+23,30,neural network,motion planning,1
+23,39,neural network,high-performance computing,1
+23,54,neural network,evolutionary algorithms,1
+24,28,simulation,control,1
+24,45,simulation,ship,1
+24,52,simulation,decision support system,1
+25,35,trajectory optimization,dynamic programming,2
+25,53,trajectory optimization,energy efficiency,1
+25,56,trajectory optimization,heterogeneous computing,3
+26,34,a*,ant colony optimization,1
+26,42,a*,model predictive control,1
+27,36,colregs,autonomous navigation,1
+27,37,colregs,fuzzy logic,2
+28,31,control,navigation,1
+28,36,control,autonomous navigation,1
+28,42,control,model predictive control,1
+28,45,control,ship,2
+28,50,control,autonomous vehicles,1
+29,32,convolutional neural network,obstacle avoidance,1
+29,36,convolutional neural network,autonomous navigation,1
+29,48,convolutional neural network,attention mechanism,2
+30,32,motion planning,obstacle avoidance,1
+30,38,motion planning,gpu,2
+30,41,motion planning,mobile robot,1
+30,54,motion planning,evolutionary algorithms,1
+30,58,motion planning,marine robotics,1
+31,36,navigation,autonomous navigation,1
+32,36,obstacle avoidance,autonomous navigation,1
+32,58,obstacle avoidance,marine robotics,1
+33,46,uuv,underwater vehicle,1
+33,50,uuv,autonomous vehicles,1
+34,37,ant colony optimization,fuzzy logic,3
+34,53,ant colony optimization,energy efficiency,1
+35,49,dynamic programming,autonomous ship,1
+35,50,dynamic programming,autonomous vehicles,1
+35,53,dynamic programming,energy efficiency,1
+35,56,dynamic programming,heterogeneous computing,3
+36,45,autonomous navigation,ship,1
+38,39,gpu,high-performance computing,1
+38,54,gpu,evolutionary algorithms,1
+40,57,mobile edge computing,large language model,1
+41,61,mobile robot,particle swarm optimization,1
+42,49,model predictive control,autonomous ship,1
+42,57,model predictive control,large language model,1
+43,57,multi-agent reinforcement learning,large language model,1
+43,60,multi-agent reinforcement learning,multi-agent system,1
+43,62,multi-agent reinforcement learning,proximal policy optimization,1
+44,45,navigational performance,ship,1
+46,50,underwater vehicle,autonomous vehicles,1
+46,61,underwater vehicle,particle swarm optimization,1
+54,57,evolutionary algorithms,large language model,1
+58,59,marine robotics,motion control,1
+60,62,multi-agent system,proximal policy optimization,1

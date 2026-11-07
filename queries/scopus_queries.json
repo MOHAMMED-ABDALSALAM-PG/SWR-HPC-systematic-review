@@ -1,0 +1,36 @@
+{
+ "source": "Scopus (Elsevier Search API, view=COMPLETE)",
+ "date": "2026-09-30",
+ "corpora": {
+  "A": {
+   "blocks": [
+    "R",
+    "M",
+    "W",
+    "H"
+   ],
+   "counts": {
+    "all": 123,
+    "doctype": 84,
+    "doctype+english": 80
+   },
+   "final_query": "TITLE-ABS-KEY(\"weather routing\" OR \"ship routing\" OR \"vessel routing\" OR \"voyage optimi?ation\" OR \"voyage planning\" OR ((route* OR routing OR path* OR trajector* OR voyage* OR navigation) W/3 (optimi* OR planning OR planner OR finding OR search* OR \"decision support\")) OR \"optimal planning\") AND TITLE-ABS-KEY(ship* OR vessel* OR maritime OR sailboat* OR sailing OR yacht* OR ferry OR ferries OR \"marine vehicle*\") AND TITLE-ABS-KEY(weather OR meteorolog* OR metocean OR \"meteo-ocean*\" OR wave* OR wind* OR \"ocean current*\" OR current* OR \"ocean flow*\" OR \"ocean environment*\" OR \"sea state*\" OR forecast* OR sailboat* OR sailing) AND TITLE-ABS-KEY(\"high performance computing\" OR \"high-performance computing\" OR hpc OR parallel* OR gpu* OR \"graphics processing unit*\" OR cuda OR opencl OR openmp OR mpi OR \"message passing\" OR multicore OR \"multi-core\" OR multithread* OR \"multi-thread*\" OR supercomput* OR \"distributed computing\" OR \"cloud computing\" OR \"computing cluster*\" OR \"hpc cluster*\" OR \"island model\" OR \"many-core\" OR fpga*) AND DOCTYPE(ar OR cp) AND LANGUAGE(english)",
+   "retrieved": 80
+  },
+  "B": {
+   "blocks": [
+    "R",
+    "M",
+    "W",
+    "O"
+   ],
+   "counts": {
+    "all": 302,
+    "doctype": 270,
+    "doctype+english": 258
+   },
+   "final_query": "TITLE-ABS-KEY(\"weather routing\" OR \"ship routing\" OR \"vessel routing\" OR \"voyage optimi?ation\" OR \"voyage planning\" OR ((route* OR routing OR path* OR trajector* OR voyage* OR navigation) W/3 (optimi* OR planning OR planner OR finding OR search* OR \"decision support\")) OR \"optimal planning\") AND TITLE-ABS-KEY(ship* OR vessel* OR maritime OR sailboat* OR sailing OR yacht* OR ferry OR ferries OR \"marine vehicle*\") AND TITLE-ABS-KEY(weather OR meteorolog* OR metocean OR \"meteo-ocean*\" OR wave* OR wind* OR \"ocean current*\" OR current* OR \"ocean flow*\" OR \"ocean environment*\" OR \"sea state*\" OR forecast* OR sailboat* OR sailing) AND TITLE-ABS-KEY(\"multi-objective\" OR multiobjective OR \"multi objective\" OR \"many-objective\" OR \"multi-criteria\" OR multicriteria OR \"pareto\" OR nsga* OR spea* OR \"moea*\") AND DOCTYPE(ar OR cp) AND LANGUAGE(english)",
+   "retrieved": 258
+  }
+ }
+}

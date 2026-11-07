@@ -1,0 +1,102 @@
+{
+ "date": "2026-10-06",
+ "seeds": {
+  "10.1145/3721145.3725781": {
+   "found": true,
+   "backward": 38,
+   "forward": 1
+  },
+  "10.1016/j.oceaneng.2023.115950": {
+   "found": true,
+   "backward": 32,
+   "forward": 10
+  },
+  "10.1007/978-3-031-36024-4_31": {
+   "found": true,
+   "backward": 27,
+   "forward": 1
+  },
+  "10.1109/access.2023.3303282": {
+   "found": true,
+   "backward": 33,
+   "forward": 4
+  },
+  "10.1007/978-3-031-08757-8_30": {
+   "found": true,
+   "backward": 19,
+   "forward": 3
+  },
+  "10.1007/978-3-030-77970-2_13": {
+   "found": true,
+   "backward": 31,
+   "forward": 6
+  },
+  "10.1515/amcs-2016-0025": {
+   "found": true,
+   "backward": 36,
+   "forward": 14
+  },
+  "10.1002/cpe.4330060805": {
+   "found": true,
+   "backward": 15,
+   "forward": 4
+  },
+  "10.7494/csci.2016.17.4.461": {
+   "found": true,
+   "backward": 41,
+   "forward": 2
+  },
+  "10.3390/app131910873": {
+   "found": true,
+   "backward": 37,
+   "forward": 8
+  },
+  "10.1109/joe.2022.3152514": {
+   "found": true,
+   "backward": 62,
+   "forward": 12
+  },
+  "10.3390/jmse10040533": {
+   "found": true,
+   "backward": 47,
+   "forward": 4
+  },
+  "10.1109/oceans.2018.8604683": {
+   "found": true,
+   "backward": 27,
+   "forward": 3
+  },
+  "10.1109/oceans-yeosu.2012.6263557": {
+   "found": true,
+   "backward": 16,
+   "forward": 8
+  },
+  "10.1016/j.oceaneng.2026.127215": {
+   "found": true,
+   "backward": 42,
+   "forward": 0
+  },
+  "10.3390/s25154699": {
+   "found": true,
+   "backward": 28,
+   "forward": 6
+  },
+  "10.23919/oceans40490.2019.8962569": {
+   "found": true,
+   "backward": 12,
+   "forward": 6
+  },
+  "10.1016/j.cor.2018.08.008": {
+   "found": true,
+   "backward": 70,
+   "forward": 19
+  },
+  "10.1145/3797905.3800547": {
+   "found": true,
+   "backward": 35,
+   "forward": 0
+  }
+ },
+ "n_new_candidates": 588,
+ "note": "candidates exclude records already in the database set; MPMOS seed added on 2026-10-06"
+}

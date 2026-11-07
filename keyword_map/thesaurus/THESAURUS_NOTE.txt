@@ -1,0 +1,25 @@
+Author-keyword thesaurus of the 906-record keyword maps
+
+Files
+- thesaurus_keywords.json: variant -> canonical keyword.
+- plural_merges_DE.json: plural forms merged into the singular because both forms occur among the normalized author
+  keywords.
+
+Application to each raw author keyword
+1. lower case, collapse white space, replace "optimis" by "optimiz";
+2. thesaurus lookup;
+3. remove a trailing bracketed acronym, e.g. "unmanned surface vehicle (usv)" -> "unmanned surface vehicle";
+4. thesaurus lookup;
+5. singular step: a keyword ending in "s" whose form without the final "s" is a thesaurus entry is replaced by that
+   entry's value;
+6. each keyword is kept once per record; then the plural merges are applied.
+
+Correction (keyword version "corrected")
+In step 5 the canonical keyword "ais" (from "automatic identification system", "AIS", 13 records) is shortened to
+"ai" and then mapped to "artificial intelligence" through the entry "ai" -> "artificial intelligence". In the
+corrected version step 5 is not applied to a keyword that is already a canonical thesaurus value. This changes only
+"ais" (checked over all raw author keywords: the other keywords affected by step 5, "colregs" and "autonomous surface
+vessels", give the same result in both versions). Result: "artificial intelligence" 16 records and "ais" 13 records
+(one record uses both), instead of "artificial intelligence" 28 records.
+
+Raw forms behind every mapped keyword: data/keyword_variants_t5.csv.

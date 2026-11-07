@@ -1,0 +1,69 @@
+doi,year,content_type,title,source_title
+10.1109/access.2023.3252566,2023,Journals,The Rising Trends of Smart E-Commerce Logistics,IEEE Access
+10.1109/tase.2023.3277888,2024,Journals,Enhanced Global Optimization With Parallel Global and Local Structures for Real-Time Control Systems,IEEE Transactions on Automation Science and Engineering
+10.1109/access.2023.3303282,2023,Journals,Parallel Implementation of a Sailing Assistance Application in a Cloud Environment,IEEE Access
+10.1109/jiot.2023.3305387,2023,Journals,Asynchronous Multithreading Reinforcement Control Decision Method for Unmanned Surface Vessel,IEEE Internet of Things Journal
+10.1109/icpics58376.2023.10235725,2023,Conferences,UAV Maritime Search and Rescue Based on Improved A* and RCPP Algorithms for Path Planning,"2023 IEEE 5th International Conference on Power, Intelligent Computing and Systems (ICPICS)"
+10.1109/oceanslimerick52467.2023.10244653,2023,Conferences,"Ripples: A tool for oceanic campaign managing, supervision, and situational awareness",OCEANS 2023 - Limerick
+10.1109/jiot.2023.3324525,2024,Journals,General System Architecture and COTS Prototyping of an AIoT-Enabled Sailboat for Autonomous Aquatic Ecosystem Monitoring,IEEE Internet of Things Journal
+10.1109/access.2023.3325483,2023,Journals,Coverage Path Planning for UAV Based on Improved Back-and-Forth Mode,IEEE Access
+10.1109/iccsi58851.2023.10303993,2023,Conferences,Virtual-reality-based design and implementation with a parallel physical simulation platform for unmanned surface vehicle,2023 International Conference on Cyber-Physical Social Intelligence (ICCSI)
+10.1109/icccnt56998.2023.10307569,2023,Conferences,Optimal Ship Route Search Based on Multi-Objective Genetic Algorithm,2023 14th International Conference on Computing Communication and Networking Technologies (ICCCNT)
+10.1109/iciscae59047.2023.10393328,2023,Conferences,Research on Route Optimization System of Logistics Distribution Center Based on Computer Big Data Technology,2023 IEEE 6th International Conference on Information Systems and Computer Aided Education (ICISCAE)
+10.1109/eebda60612.2024.10485823,2024,Conferences,A Multibeam Line Planning Model Based on Differential Evolutionary Approach,"2024 IEEE 3rd International Conference on Electrical Engineering, Big Data and Algorithms (EEBDA)"
+10.1109/tsmc.2024.3375282,2025,Journals,Optimal Motion Planning for Heterogeneous Multi-USV Systems Using Hexagonal Grid-Based Neural Networks and Parallelogram Law Under Ocean Currents,"IEEE Transactions on Systems, Man, and Cybernetics: Systems"
+10.1109/mesa61532.2024.10704910,2024,Conferences,Wave-motion compensation for USV–UAV cooperation: A model predictive controller approach,2024 20th IEEE/ASME International Conference on Mechatronic and Embedded Systems and Applications (MESA)
+10.1109/qrs-c63300.2024.00137,2024,Conferences,A Survey of Automatic Driving Environment Perception,"2024 IEEE 24th International Conference on Software Quality, Reliability, and Security Companion (QRS-C)"
+10.1109/ccsb63463.2024.10735515,2024,Conferences,A Com-ConvGRU Model Combined with Classification Feature Selection for Hydrogen Ship Load Prediction,2024 4th International Conference on Computer Science and Blockchain (CCSB)
+10.1109/ccsb63463.2024.10735700,2024,Conferences,Design of Ship Navigation Data Storage and Backup System Based on Cloud Computing,2024 4th International Conference on Computer Science and Blockchain (CCSB)
+10.1109/oceans55160.2024.10753868,2024,Conferences,Cerulean Information Factory: A New European Space Agency-Funded Project to Develop Decision-Support Tools for the North Atlantic and Arctic Oceans,OCEANS 2024 - Halifax
+10.1109/dtpi61353.2024.10778783,2024,Conferences,Parallel Systems Framework: A Safe and Efficient Testbed for Unmanned Ships,2024 IEEE 4th International Conference on Digital Twins and Parallel Intelligence (DTPI)
+10.55417/fr.2024007,2024,Journals,Obstacle Intention Awareness in Automatic Ship Collision Avoidance: Full-Scale Experiments in Confined Waters,Field Robotics
+10.1109/citsc64390.2025.00130,2025,Conferences,Research on the Application of Intelligent Ship Navigation Optimization Algorithm in Complex Sea Conditions,"2025 Asia-Europe Conference on Cybersecurity, Internet of Things and Soft Computing (CITSC)"
+10.23919/jsee.2025.000026,2025,Journals,Multi-Platform Collaborative MRC-PSO Algorithm for Anti-Ship Missile Path Planning,Journal of Systems Engineering and Electronics
+10.1109/tte.2025.3577152,2025,Journals,Insights into Optimization Design and Energy Management of Marine Parallel Hybrid Power System,IEEE Transactions on Transportation Electrification
+10.1109/aicconf64766.2025.11063974,2025,Conferences,AR-Based Hybrid Human-AI Decision Support System for Maritime Navigation,2025 3rd Cognitive Models and Artificial Intelligence Conference (AICCONF)
+10.1109/icps65515.2025.11087896,2025,Conferences,Real-Time Interaction with a Ship Bridge Simulator via a Multi-Threaded Framework,2025 IEEE 8th International Conference on Industrial Cyber-Physical Systems (ICPS)
+10.1109/icirca65293.2025.11089876,2025,Conferences,Sea Savior the Smart Robotic Boat Protecting Marine Life Using IoT,2025 6th International Conference on Inventive Research in Computing Applications (ICIRCA)
+10.1109/ccdc65474.2025.11090712,2025,Conferences,The Ship Fuel Consumption Prediction Based on Working Conditions Classification,2025 37th Chinese Control and Decision Conference (CCDC)
+10.1109/iccea65460.2025.11103129,2025,Conferences,UAV Path Planning for Maritime Search and Rescue Based on Deep Reinforcement Learning,2025 6th International Conference on Computer Engineering and Application (ICCEA)
+10.1109/oceans58557.2025.11104367,2025,Conferences,A Real-Time Processed Static Mapping for Surface Vessel Navigation with LiDAR,OCEANS 2025 Brest
+10.1109/maris64137.2025.11139472,2025,Conferences,FLP-XR: Future Location Prediction on Extreme Scale Maritime Data in Real-time,2025 Symposium on Maritime Informatics and Robotics (MARIS)
+10.1109/tsg.2025.3615925,2026,Journals,Load Prediction of Hydrogen Powered Ship: A Deep Prediction Framework Considering Operating Environment and Error Correction,IEEE Transactions on Smart Grid
+10.1109/icimia67127.2025.11200981,2025,Conferences,Optimizing Data Warehouses for High-Performance Analytics: Methods and Models,2025 4th International Conference on Innovative Mechanisms for Industry Applications (ICIMIA)
+10.1109/eecsi67060.2025.11290513,2025,Conferences,Ship Route Optimization using Genetic Algorithm on the Capacitated Multi-Vehicle Routing Problem with Pick-Up and Delivery,"2025 12th International Conference on Electrical Engineering, Computer Science and Informatics (EECSI)"
+10.1109/icitee66631.2025.11338381,2025,Conferences,MS-PatchTST: Leveraging Multi-Scale Temporal Features for Water Level Forecasting,2025 17th International Conference on Information Technology and Electrical Engineering (ICITEE)
+10.1109/iccect64621.2025.11339710,2025,Conferences,Research on the Fusion Algorithm of Intelligent Ship Autonomous Navigation System and Big Data Analysis,"2025 IEEE 3rd International Conference on Control, Electronics and Computer Technology (ICCECT)"
+10.1109/icicat68430.2025.11414689,2025,Conferences,Robotic Process Automation in Industry 4.0: Optimizing Manufacturing and Logistics,"2025 3rd International Conference on IoT, Communication and Automation Technology (ICICAT)"
+10.1109/lra.2026.3671567,2026,Journals,A Bi-Directional Adaptive Framework for Agile UAV Landing,IEEE Robotics and Automation Letters
+10.1109/jiot.2026.3686625,2026,Journals,Dual-Population Cooperative Algorithm Integrating an LLM and an Evolutionary Algorithm for AUV Path Planning in 3-D Marine Environments,IEEE Internet of Things Journal
+10.1109/jsyst.2026.3691660,2026,Journals,A DRL-Based Collision Avoidance Method for USVs With Distributed Priority and Curriculum Learning,IEEE Systems Journal
+10.1109/access.2026.3706982,2026,Journals,Depth-Oriented Cooperative Mission Planning for Hierarchical Multi-AUV Data Harvesting in Large-Scale Underwater Sensor Networks,IEEE Access
+10.1109/conit69683.2026.11621622,2026,Conferences,Dynamic Route Optimization for High-Volume Logistics Using Risk-Aware Multi-Objective Path Reassignment,2026 6th International Conference on Intelligent Technologies (CONIT)
+10.1109/iv.2008.32,2008,Conferences,Voyage Analysis Applied to Geovisual Analytics,2008 12th International Conference Information Visualisation
+10.1109/oceanse.2009.5278104,2009,Conferences,A three-layered architecture for real time path planning and obstacle avoidance for surveillance USVs operating in harbour fields,OCEANS 2009-EUROPE
+10.1109/tcyb.2013.2248359,2014,Journals,"Route 20, Autobahn 7, and Slime Mold: Approximating the Longest Roads in USA and Germany With Slime Mold on 3-D Terrains",IEEE Transactions on Cybernetics
+10.1109/oceans-bergen.2013.6608127,2013,Conferences,AUV and ASV in twinned navigation for long term multipurpose survey applications,2013 MTS/IEEE OCEANS - Bergen
+10.1109/smc.2013.621,2013,Conferences,Kelpie: A ROS-Based Multi-robot Simulator for Water Surface and Aerial Vehicles,"2013 IEEE International Conference on Systems, Man, and Cybernetics"
+10.1049/ic:19980089,1998,Conferences,Integrated satellite data for navigation in Arctic waters,IEE Colloquium on Integrated Systems for Commercial Remote Sensing Applications (Ref. No. 1998/207)
+10.1109/tcyb.2017.2740558,2018,Journals,Robust Distributed Predictive Control of Waterborne AGVs—A Cooperative and Cost-Effective Approach,IEEE Transactions on Cybernetics
+10.1109/icisct.2017.8188591,2017,Conferences,Socio-technical challenges of smart fleet equipment management systems in the maritime industry,2017 International Conference on Information Science and Communications Technologies (ICISCT)
+10.1109/oceans.2018.8604683,2018,Conferences,Time-Optimal Multi-Waypoint Mission Planning in Dynamic Environments,OCEANS 2018 MTS/IEEE Charleston
+10.1109/access.2019.2907783,2019,Journals,Collision Avoidance Planning Method of USV Based on Improved Ant Colony Optimization Algorithm,IEEE Access
+10.1109/tsmc.2019.2906381,2021,Journals,Concurrent Processing Cluster Design to Empower Simultaneous Prediction for Hundreds of Vessels’ Trajectories in Near Real-Time,"IEEE Transactions on Systems, Man, and Cybernetics: Systems"
+10.1109/ests.2019.8847835,2019,Conferences,Minimum Time Recovery of Parallel Converters under Step Change Conditions,2019 IEEE Electric Ship Technologies Symposium (ESTS)
+10.1109/tits.2019.2955048,2021,Journals,A Direction-Constrained Space-Time Prism-Based Approach for Quantifying Possible Multi-Ship Collision Risks,IEEE Transactions on Intelligent Transportation Systems
+10.23919/oceans40490.2019.8962820,2019,Conferences,Dynamic Autonomous Surface Vehicle Control and Applications in Environmental Monitoring,OCEANS 2019 MTS/IEEE SEATTLE
+10.1109/icssit46314.2019.8987894,2019,Conferences,Path Planning and Robot Localization using Internet of Things and Machine Intelligence,2019 International Conference on Smart Systems and Inventive Technology (ICSSIT)
+10.1109/iscid.2019.10104,2019,Conferences,A Review of UAV Ferry Algorithms in Delay Tolerant Network,2019 12th International Symposium on Computational Intelligence and Design (ISCID)
+10.23919/oceans44145.2021.9705986,2021,Conferences,Optimal AUV trajectory planning and execution control for maritime pollution incident response,OCEANS 2021: San Diego – Porto
+10.1109/joe.2022.3152514,2022,Journals,Optimal Path Planning of Autonomous Marine Vehicles in Stochastic Dynamic Ocean Flows Using a GPU-Accelerated Algorithm,IEEE Journal of Oceanic Engineering
+10.1109/joe.2022.3194165,2023,Journals,A Fully-Autonomous Framework of Unmanned Surface Vehicles in Maritime Environments Using Gaussian Process Motion Planning,IEEE Journal of Oceanic Engineering
+10.1109/tsc.2022.3208783,2023,Journals,Time-Constrained Service Handoff for Mobile Edge Computing in 5G,IEEE Transactions on Services Computing
+10.23919/ccc55666.2022.9901671,2022,Conferences,Collision avoidance control algorithm for USV based on dynamic constraints,2022 41st Chinese Control Conference (CCC)
+10.23919/ccc55666.2022.9902137,2022,Conferences,Research on Vision-Based Object Detection Algorithm for Marine Obstacles,2022 41st Chinese Control Conference (CCC)
+10.1109/iisa56318.2022.9904345,2022,Conferences,Optimising Maritime Processes Via Artificial Intelligence: The VesselAI Concept And Use Cases,"2022 13th International Conference on Information, Intelligence, Systems & Applications (IISA)"
+10.1109/access.2022.3215654,2022,Journals,Ship Collision Avoidance and Anti Grounding Using Parallelized Cost Evaluation in Probabilistic Scenario-Based Model Predictive Control,IEEE Access
+10.1109/icoias56028.2022.9931209,2022,Conferences,Path Planning of Unmanned Surface Vehicle Port Docking Based on Improved Double Deep Q-Network,2022 5th International Conference on Intelligent Autonomous Systems (ICoIAS)
+10.1109/apcc55198.2022.9943645,2022,Conferences,UAV as a Data Ferry for a Sparse Adaptive WSN,2022 27th Asia Pacific Conference on Communications (APCC)
+10.1109/icirca54612.2022.9985579,2022,Conferences,Path Selection of Freedom of Sea and Freedom of Navigation Based on Finite Difference Time Domain Algorithm and Positioning System,2022 4th International Conference on Inventive Research in Computing Applications (ICIRCA)

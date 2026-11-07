@@ -1,0 +1,20 @@
+% Cell styles of the evidence-matrix table (Table 10). Requires pdfLaTeX and the packages fontenc (option T1),
+% xcolor (option table), booktabs and array; \input this file in the preamble.
+\newlength{\emcellw}\newlength{\emht}\newlength{\emdp}
+\definecolor{emM}{HTML}{1F5A96}\definecolor{emD}{HTML}{8DBBE3}\definecolor{emDt}{HTML}{0B2540}
+\definecolor{emNR}{HTML}{EDEDED}\definecolor{emNRt}{HTML}{555555}\definecolor{emNAt}{HTML}{8A8A8A}\definecolor{emHatch}{HTML}{B5B5B5}
+\newcommand{\emM}[1]{\cellcolor{emM}\textcolor{white}{\textbf{M}#1}}
+\newcommand{\emD}[1]{\cellcolor{emD}\textcolor{emDt}{D#1}}
+\newcommand{\emNA}[1]{\textcolor{emNAt}{NA#1}}
+\makeatletter
+% NR hatching drawn with plain PDF line operators (no extra packages or PDF resources): #1 width, #2 height
+\newcommand{\emhatchbox}[2]{\edef\em@w{\strip@pt\dimexpr#1\relax}\edef\em@h{\strip@pt\dimexpr#2\relax}%
+\pdfliteral{q 0.71 G 0.35 w 0 0 \em@w\space\em@h\space re W n -20.00 -1 m 0.00 19 l -17.50 -1 m 2.50 19 l -15.00 -1 m 5.00 19 l -12.50 -1 m 7.50 19 l -10.00 -1 m 10.00 19 l -7.50 -1 m 12.50 19 l -5.00 -1 m 15.00 19 l -2.50 -1 m 17.50 19 l 0.00 -1 m 20.00 19 l 2.50 -1 m 22.50 19 l 5.00 -1 m 25.00 19 l 7.50 -1 m 27.50 19 l 10.00 -1 m 30.00 19 l 12.50 -1 m 32.50 19 l 15.00 -1 m 35.00 19 l 17.50 -1 m 37.50 19 l 20.00 -1 m 40.00 19 l 22.50 -1 m 42.50 19 l 25.00 -1 m 45.00 19 l 27.50 -1 m 47.50 19 l 30.00 -1 m 50.00 19 l 32.50 -1 m 52.50 19 l 35.00 -1 m 55.00 19 l 37.50 -1 m 57.50 19 l 40.00 -1 m 60.00 19 l 42.50 -1 m 62.50 19 l 45.00 -1 m 65.00 19 l 47.50 -1 m 67.50 19 l 50.00 -1 m 70.00 19 l 52.50 -1 m 72.50 19 l 55.00 -1 m 75.00 19 l 57.50 -1 m 77.50 19 l 60.00 -1 m 80.00 19 l S Q}}
+\makeatother
+\newsavebox{\emkbox}
+\newcommand{\emNR}[1]{\cellcolor{emNR}\makebox[0pt][l]{\kern-\dimexpr0.5\emcellw+\tabcolsep\relax\raisebox{-\emdp}{\emhatchbox{\emcellw+2\tabcolsep}{\emht+\emdp}}}\makebox[0pt]{\setlength{\fboxsep}{0.6pt}\colorbox{emNR}{\textcolor{emNRt}{NR#1}}}}
+\newcommand{\emkeyNR}{\sbox{\emkbox}{\setlength{\fboxsep}{1.2pt}\colorbox{emNR}{\phantom{NR}}}\leavevmode\rlap{\usebox{\emkbox}}\rlap{\raisebox{-\dp\emkbox}{\emhatchbox{\wd\emkbox}{\ht\emkbox+\dp\emkbox}}}\makebox[\wd\emkbox]{\setlength{\fboxsep}{0.3pt}\colorbox{emNR}{\textcolor{emNRt}{NR}}}}
+\newcommand{\emkeyM}{{\setlength{\fboxsep}{1.2pt}\colorbox{emM}{\textcolor{white}{\textbf{M}}}}}
+\newcommand{\emkeyD}{{\setlength{\fboxsep}{1.2pt}\colorbox{emD}{\textcolor{emDt}{D}}}}
+\newcommand{\emkeyNA}{{\setlength{\fboxsep}{1.2pt}\fcolorbox{emHatch}{white}{\textcolor{emNAt}{NA}}}}
+\makeatletter\g@addto@macro\@floatboxreset{\def\@tmptab{table}\ifx\@captype\@tmptab\vspace*{14pt}\fi}\makeatother

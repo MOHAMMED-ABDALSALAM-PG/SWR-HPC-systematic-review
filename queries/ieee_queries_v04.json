@@ -1,0 +1,14 @@
+{
+ "source": "IEEE Xplore (Metadata Search API, querytext)",
+ "date": "2026-10-05",
+ "corpora": {
+  "X": {
+   "query": "(\"weather routing\" OR \"ship routing\" OR \"vessel routing\" OR \"voyage optimization\" OR \"voyage optimisation\" OR \"voyage planning\" OR ((route* OR routing OR path* OR trajector* OR voyage* OR navigation) NEAR/3 (optimi* OR planning OR planner OR finding OR search* OR \"decision support\" OR build* OR construct* OR generat* OR select*)) OR \"optimal planning\" OR \"collision avoidance\" OR \"collision-avoidance\" OR \"anti-collision\" OR \"obstacle avoidance\" OR \"motion planning\" OR \"shortest path*\" OR \"search and rescue\") AND (ship* OR vessel* OR maritime OR sailboat* OR sailing OR yacht* OR ferry OR ferries OR \"marine vehicle*\" OR auv OR auvs OR \"autonomous underwater vehicle*\" OR \"underwater vehicle*\" OR \"underwater glider*\" OR \"ocean glider*\" OR \"sea glider*\" OR seaglider* OR usv OR usvs OR \"unmanned surface vehicle*\" OR \"unmanned surface vessel*\" OR \"autonomous surface vehicle*\" OR \"autonomous surface vessel*\" OR \"surface vehicle*\" OR \"autonomous ship*\" OR \"autonomous vessel*\" OR \"maritime autonomous surface ship*\" OR boat* OR \"marine robot*\" OR \"ocean vehicle*\" OR \"marine craft*\") AND (\"high performance computing\" OR \"high-performance computing\" OR hpc OR parallel* OR gpu* OR \"graphics processing unit*\" OR cuda OR opencl OR openmp OR mpi OR \"message passing\" OR multicore OR \"multi-core\" OR multithread* OR \"multi-thread*\" OR supercomput* OR \"distributed computing\" OR \"cloud computing\" OR \"computing cluster*\" OR \"hpc cluster*\" OR \"island model\" OR \"many-core\" OR fpga*)",
+   "filters": "content type: Journals, Conferences, Early Access Articles",
+   "count_all": 832,
+   "count_filtered": 821,
+   "count_field_restricted": 399,
+   "field_restriction": "blocks evaluated on title, abstract and keywords (equivalent to TITLE-ABS-KEY)"
+  }
+ }
+}
